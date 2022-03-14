@@ -1,0 +1,661 @@
+﻿{
+  "data": [
+    {
+      "KoreanName": "B.F. 대검",
+      "Index": 1,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "공격력 +10"
+    },
+    {
+      "KoreanName": "곡궁",
+      "Index": 2,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "공격 속도 +10"
+    },
+    {
+      "KoreanName": "쇠사슬 조끼",
+      "Index": 5,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "방어력 +20"
+    },
+    {
+      "KoreanName": "음전자 망토",
+      "Index": 6,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "마법 저항력 +20"
+    },
+    {
+      "KoreanName": "쓸데없이 큰 지팡이",
+      "Index": 3,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "주문력 +10"
+    },
+    {
+      "KoreanName": "여신의 눈물",
+      "Index": 4,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "마나 +15"
+    },
+    {
+      "KoreanName": "거인의 허리띠",
+      "Index": 7,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "체력 +150"
+    },
+    {
+      "KoreanName": "연습용 장갑",
+      "Index": 9,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "치명타 확률 +5% \n 회피 확률 +10%"
+    },
+    {
+      "KoreanName": "뒤집개",
+      "Index": 8,
+      "IsComplete": false,
+      "Materials": [],
+      "Description": "특별한 능력을 얻음"
+    },
+    {
+      "KoreanName": "흑요석 양날 도끼",
+      "Index": 9006,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n 기본 공격 및 스킬 피해가 3초 동안 적의 방어력 및 마법 저항력을 60% 감소시킵니다."
+    },
+    {
+      "KoreanName": "죽음의 저항",
+      "Index": 9002,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n 받는 피해량의 70%를 5초 동안 치명적이지 않은 피해로 받습니다. 기본 공격 및 스킬 사용 시 입힌 피해량의 20%만큼 체력을 회복합니다."
+    },
+    {
+      "KoreanName": "영원한 겨울",
+      "Index": 9003,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n장착한 유닛에게 피해를 입힌 적은 2초 동안 공격 속도가 25% 둔화됩니다. 7번 둔화된 적은 둔화 대신 지속시간 동안 얼어붙습니다. 적은 10초에 한 번만 얼어붙을 수 있습니다."
+    },
+    {
+      "KoreanName": "마나자네",
+      "Index": 9005,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n각 전투에서 처음으로 스킬을 시전하면 4초 동안 150 마나를 회복합니다."
+    },
+    {
+      "KoreanName": "란두인의 성소",
+      "Index": 9007,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가]\n\n 전투 시작 시 인접한 모든 아군에게 전투가 끝날 때까지 방어력 50, 마법 저항력을 50 부여합니다."
+    },
+    {
+      "KoreanName": "로켓 주먹",
+      "Index": 9008,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n전투 시작 시 가장 멀리 있는 적을 근접 공격이 가능한 거리로 당기고 1.5초 동안 기절시킵니다. 범위 내의 아군은 해당 적을 우선적으로 공격합니다."
+    },
+    {
+      "KoreanName": "영혼의 형상",
+      "Index": 9001,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가]\n\n 매초 최대 체력의 6%를 회복합니다."
+    },
+    {
+      "KoreanName": "황금 징수의 총",
+      "Index": 9009,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n장착 후 공격 적중 시 체력이 10%보다 낮은 적을 처형합니다. 처형 시 50% 확률로 1골드가 생성됩니다."
+    },
+    {
+      "KoreanName": "무한한 삼위일체",
+      "Index": 9004,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가]\n\n 공격력 +30, 공격 속도 +30%, 주문력 +30%, 체력 +30, 방어력 +30, 마법 저항력 +30, 치명타 확률 +30%"
+    },
+    {
+      "KoreanName": "존야의 역설",
+      "Index": 9010,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] \n\n체력을 40% 이하로 만드는 첫 번째 공격을 막고 2.5초 동안 무적 상태가 됩니다."
+    },
+    {
+      "KoreanName": "마법공학 상징",
+      "Index": 72,
+      "IsComplete": true,
+      "Materials": [
+        8,
+        4
+      ],
+      "Description": "[고유] 장착 시 마법공학 특성 획득"
+    },
+    {
+      "KoreanName": "비전 마법사 상징",
+      "Index": 38,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        8
+      ],
+      "Description": "[고유] 장착 시 비전 마법사 특성 획득"
+    },
+    {
+      "KoreanName": "암살자 상징",
+      "Index": 89,
+      "IsComplete": true,
+      "Materials": [
+        9,
+        8
+      ],
+      "Description": "[고유] 장착 시 암살자 특성 획득"
+    },
+    {
+      "KoreanName": "경호대 상징",
+      "Index": 58,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 경호대 특성 획득"
+    },
+    {
+      "KoreanName": "난동꾼 상징",
+      "Index": 2197,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 난동꾼 특성 획득"
+    },
+    {
+      "KoreanName": "도전자 상징",
+      "Index": 28,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        8
+      ],
+      "Description": "[고유] 장착 시 도전자 특성 획득"
+    },
+    {
+      "KoreanName": "화학공학 상징",
+      "Index": 78,
+      "IsComplete": true,
+      "Materials": [
+        7,
+        8
+      ],
+      "Description": "[고유] 장착 시 화학공학 특성 획득"
+    },
+    {
+      "KoreanName": "시계태엽 상징",
+      "Index": 2191,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 시계태엽 특성 획득"
+    },
+    {
+      "KoreanName": "연미복 상징",
+      "Index": 70,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        8
+      ],
+      "Description": "[고유] 장착 시 연미복 특성 획득"
+    },
+    {
+      "KoreanName": "집행자 상징",
+      "Index": 2194,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 집행자 특성 획득"
+    },
+    {
+      "KoreanName": "타격대 상징",
+      "Index": 71,
+      "IsComplete": true,
+      "Materials": [
+        8,
+        1
+      ],
+      "Description": "[고유] 장착 시 타격대 특성 획득"
+    },
+    {
+      "KoreanName": "혁신가 상징",
+      "Index": 2198,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 혁신가 특성 획득"
+    },
+    {
+      "KoreanName": "용병 상징",
+      "Index": 2192,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 용병 특성 획득"
+    },
+    {
+      "KoreanName": "돌연변이 상징",
+      "Index": 2190,
+      "IsComplete": true,
+      "Materials": [
+        6,
+        8
+      ],
+      "Description": "[고유] 장착 시 돌연변이 특성 획득"
+    },
+    {
+      "KoreanName": "학자 상징",
+      "Index": 2200,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 학자 특성 획득"
+    },
+    {
+      "KoreanName": "고물상 상징",
+      "Index": 2195,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 고물상 특성 획득"
+    },
+    {
+      "KoreanName": "저격수 상징",
+      "Index": 2199,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 저격수 특성 획득"
+    },
+    {
+      "KoreanName": "사교계 상징",
+      "Index": 2193,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유, 제작 불가] 장착 시 사교계 특성 획득"
+    },
+    {
+      "KoreanName": "범죄 조직 상징",
+      "Index": 68,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유] 장착 시 범죄 조직 특성 획득"
+    },
+    {
+      "KoreanName": "대천사의 지팡이",
+      "Index": 34,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        4
+      ],
+      "Description": "전투 시 5초마다 주문력 25 증가"
+    },
+    {
+      "KoreanName": "피바라기",
+      "Index": 16,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        6
+      ],
+      "Description": "물리 공격 시 피해량의 33%만큼 체력 회복. 체력이 40% 미만으로 떨어지면 최대 체력의 30%에 해당하는 보호막 획득 후 최대 5초까지 유지"
+    },
+    {
+      "KoreanName": "덤불 조끼",
+      "Index": 55,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        5
+      ],
+      "Description": "추가 방어력 70. 받는 치명타 공격의 추가 피해 100% 무효화. 기본 공격에 맞을 경우 주변 모든 적에게 60/80/120 ★의 마법 피해 (2.5초마다 한 번씩)"
+    },
+    {
+      "KoreanName": "힘의 성배",
+      "Index": 46,
+      "IsComplete": true,
+      "Materials": [
+        6,
+        4
+      ],
+      "Description": "전투 시작 시 장착 유닛과 가로로 1칸 내에 있는 모든 아군의 주문력이 전투가 끝날 때까지 30 증가"
+    },
+    {
+      "KoreanName": "죽음의 검",
+      "Index": 11,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        1
+      ],
+      "Description": "장착 시 추가 공격력 50/75/100★ 획득"
+    },
+    {
+      "KoreanName": "용의 발톱",
+      "Index": 66,
+      "IsComplete": true,
+      "Materials": [
+        6,
+        6
+      ],
+      "Description": "추가 마법 저항력 200 (조합 아이템 포함). 스킬 공격으로 마법 피해나 고정 피해를 받으면 해당 스킬을 사용한 적에게 대상 최대 체력의 18%에 해당하는 마법 피해를 입히는 불덩이 발사 (재사용 대기시간 0.5초)"
+    },
+    {
+      "KoreanName": "전략가의 왕관",
+      "Index": 88,
+      "IsComplete": true,
+      "Materials": [
+        8,
+        8
+      ],
+      "Description": "아군의 최대 팀 규모 +1 증가"
+    },
+    {
+      "KoreanName": "얼어붙은 심장",
+      "Index": 45,
+      "IsComplete": true,
+      "Materials": [
+        4,
+        5
+      ],
+      "Description": "[고유] 2칸 내에 있는 적의 공격 속도 35% 감소"
+    },
+    {
+      "KoreanName": "가고일 돌갑옷",
+      "Index": 56,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        6
+      ],
+      "Description": "적의 공격 대상이 되면 방어력이 18, 마법 저항력이 18 증가. 공격하는 적이 늘어나면 중첩되어 적용."
+    },
+    {
+      "KoreanName": "밤의 끝자락",
+      "Index": 94,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        5
+      ],
+      "Description": "[고유] 체력이 50% 아래로 떨어지면 잠시 은신해 대상으로 지정할 수 없는 상태가 되고 해로운 효과가 사라지며, 은신히 풀린 후 공격 속도 40% 증가."
+    },
+    {
+      "KoreanName": "구인수의 격노검",
+      "Index": 23,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        3
+      ],
+      "Description": "기본 공격 시 전투가 끝날 때까지 추가 공격 속도 +6% 획득. 무제한 중첩 가능"
+    },
+    {
+      "KoreanName": "마법공학 총검",
+      "Index": 13,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        3
+      ],
+      "Description": "스킬로 입힌 마법 및 고정 피해량의 33%만큼 체력 회복. 체력이 가장 낮은 아군의 체력도 같은 수치만큼 회복."
+    },
+    {
+      "KoreanName": "무한의 대검",
+      "Index": 19,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        9
+      ],
+      "Description": "[고유] 치명타 확률 75% (조합 아이템 포함) 및 치명타 피해량 10% 증가. 치명타 확률이 100%가 되면 1% 증가할 때마다 치명타 피해량 +1% 증가"
+    },
+    {
+      "KoreanName": "이온 충격기",
+      "Index": 36,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        6
+      ],
+      "Description": "2칸 내에 있는 모든 적의 마법 저항력 50% 감소. 해당 적이 스킬 사용 시 최대 마나의 200%에 해당하는 마법 피해를 입음"
+    },
+    {
+      "KoreanName": "보석 건틀릿",
+      "Index": 39,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        9
+      ],
+      "Description": "스킬의 마법 및 고정 피해에 치명타 적용 가능. 추가 치명타 피해량 30% 및 추가 주문력 10 증가"
+    },
+    {
+      "KoreanName": "최후의 속삭임",
+      "Index": 29,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        9
+      ],
+      "Description": "[고유] 치명타 공격을 가할 경우 5초 동안 대상 방어력 70% 감소. (중첩 불가)"
+    },
+    {
+      "KoreanName": "강철의 솔라리 펜던트",
+      "Index": 35,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        5
+      ],
+      "Description": "전투 시작 시 장착한 유닛과 가로로 2칸 내에 있는 모든 아군이 15초 동안 300/350/400 의 피해를 흡수하는 보호막 획득"
+    },
+    {
+      "KoreanName": "거인 학살자",
+      "Index": 12,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        2
+      ],
+      "Description": "기본 공격 및 스킬 사용시 20%의 추가 피해. 대상 최대 체력이 1800 초과 시 추가 피해 60%로 증가"
+    },
+    {
+      "KoreanName": "모렐로노미콘",
+      "Index": 37,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        7
+      ],
+      "Description": "[고유] 스킬로 마법 피해나 고정 피해를 입히면 대상을 불태워 10초 동안 대상 최대 체력의 20%만큼 고정 피해를 입히고 그동안 모든 체력 회복 효과 50% 감소"
+    },
+    {
+      "KoreanName": "밴시의 발톱",
+      "Index": 79,
+      "IsComplete": true,
+      "Materials": [
+        7,
+        9
+      ],
+      "Description": "전투 시작 시 장착한 유닛과 가로로 1칸 내에 있는 모든 아군이 처음 적중한 적 스킬의 피해와 효과를 막는 보호막 획득. 보호막 최대 피해 흡수량 600"
+    },
+    {
+      "KoreanName": "수은",
+      "Index": 69,
+      "IsComplete": true,
+      "Materials": [
+        9,
+        6
+      ],
+      "Description": "[고유] 장착 시 추가 공격 속도 20% 획득. 전투 중 15초 동안 군중 제어 효과에 면역"
+    },
+    {
+      "KoreanName": "라바돈의 죽음모자",
+      "Index": 33,
+      "IsComplete": true,
+      "Materials": [
+        3,
+        3
+      ],
+      "Description": "추가 주문력 75 (조합 아이템 포함)"
+    },
+    {
+      "KoreanName": "고속 연사포",
+      "Index": 22,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        2
+      ],
+      "Description": "공격 사거리 1칸 증가 및 추가 공격 속도 55% 획득 (조합 아이템 포함) 기본 공격이 빗나가지 않음"
+    },
+    {
+      "KoreanName": "태양불꽃 망토",
+      "Index": 57,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        7
+      ],
+      "Description": "[고유] 2초마다 2칸 내에 있는 무작위 적 하나가 불타 8초 동안 최대 체력의 16%에 해당하는 고정 피해를 입고 체력 회복 효과 50% 감소"
+    },
+    {
+      "KoreanName": "구원",
+      "Index": 47,
+      "IsComplete": true,
+      "Materials": [
+        4,
+        7
+      ],
+      "Description": "5초마다 오오라를 발산해 1칸 내에 있는 아군의 체력을 대상이 잃은 체력의 18%만큼 회복. 효과를 받은 아군은 5초 동안 다중 대상 공격으로부터 입는 피해량이 25% 감소"
+    },
+    {
+      "KoreanName": "루난의 허리케인",
+      "Index": 26,
+      "IsComplete": true,
+      "Materials": [
+        6,
+        2
+      ],
+      "Description": "장착 시 공격력 10 증가. 기본 공격 시 주변 다른 적 하나에게 탄환을 발사하여 공격력의 70%만큼 물리 피해"
+    },
+    {
+      "KoreanName": "푸른 파수꾼",
+      "Index": 44,
+      "IsComplete": true,
+      "Materials": [],
+      "Description": "[고유] 시작 마나 50 증가 (조합 아이템 포함). 스킬 사용 후 20의 마나 회복"
+    },
+    {
+      "KoreanName": "침묵의 장막",
+      "Index": 59,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        9
+      ],
+      "Description": "[고유] 전투 시작 시 광선을 발사해 적중당한 적들의 최대 마나를 35% 증가시켜 첫 스킬 사용 지연"
+    },
+    {
+      "KoreanName": "쇼진의 창",
+      "Index": 14,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        4
+      ],
+      "Description": "기본 공격 시 추가로 8의 마나 회복"
+    },
+    {
+      "KoreanName": "스태틱의 단검",
+      "Index": 24,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        4
+      ],
+      "Description": "장착 시 추가 공격 속도 10% 획득. 세 번째 공격마다 4명의 적에게 튕기는 연쇄 번개를 발사하여 70의 마법 피해를 입히고 대상의 마법 저항력 5초 동안 50% 감소"
+    },
+    {
+      "KoreanName": "도적의 장갑",
+      "Index": 99,
+      "IsComplete": true,
+      "Materials": [
+        9,
+        9
+      ],
+      "Description": "매 준비 단계마다 임시 아이템 2개 획득. 플레이어 레벨에 따라 아이템 성능 강화"
+    },
+    {
+      "KoreanName": "즈롯 차원문",
+      "Index": 27,
+      "IsComplete": true,
+      "Materials": [
+        2,
+        7
+      ],
+      "Description": "전투 시작 시 장착한 유닛이 4칸 내에 있는 적을 도발.\n 장착 유닛 사망 시 공허 생물이 깨어나 주변 적을 도발하며 소환된 유닛에서 일어난 공허 생물의 효과는 25%로 적용"
+    },
+    {
+      "KoreanName": "거인의 결의",
+      "Index": 25,
+      "IsComplete": true,
+      "Materials": [
+        5,
+        2
+      ],
+      "Description": "피해를 입거나 기본 공격 시 공격력 및 주문력 2 증가. \n 이 효과는 최대 25회까지 중첩 가능하며, 최대 중첩 시 25의 방어력 및 마법 저항력 획득"
+    },
+    {
+      "KoreanName": "정의의 손길",
+      "Index": 49,
+      "IsComplete": true,
+      "Materials": [
+        4,
+        9
+      ],
+      "Description": "공격력 +10 및 주문력 +10, - 기본 공격과 스킬 사용 시 피해량의 10%만큼 체력 회복. 준비 단계마다 효과 중 하나가 33(%)로 증폭"
+    },
+    {
+      "KoreanName": "워모그의 갑옷",
+      "Index": 77,
+      "IsComplete": true,
+      "Materials": [
+        7,
+        7
+      ],
+      "Description": "추가 체력 1000 획득 (조합 아이템 포함)"
+    },
+    {
+      "KoreanName": "지크의 전령",
+      "Index": 17,
+      "IsComplete": true,
+      "Materials": [
+        1,
+        7
+      ],
+      "Description": "전투 시작 시 장착 유닛과 가로로 1칸 내에 있는 모든 아군의 공격 속도가 남은 전투 시간 동안 30% 증가"
+    },
+    {
+      "KoreanName": "서풍",
+      "Index": 67,
+      "IsComplete": true,
+      "Materials": [
+        6,
+        7
+      ],
+      "Description": "고유] 전투 시작 시 결투장 반대편에 회오리바람을 소환해 회오리바람과 가장 가까운 적을 5초 동안 전투에서 제외. 군중 제어 면역 무시"
+    }
+  ]
+}

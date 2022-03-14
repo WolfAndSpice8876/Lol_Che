@@ -1,0 +1,725 @@
+{
+  "data" :
+  [
+    {
+      "Name": "Nocturne",
+      "KoreanName" : "녹턴",
+      "RiotName": "TFT6_Nocturne",
+      "Rarity": 0,
+      "Origins": ["마법공학"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["밴시의 발톱","서풍","얼어붙은 심장","지크의 전령"],
+      "SkillName" : "말할 수 없는 공포",
+      "SkillDescription" : "녹턴이 대상을 공포에 질리게 해 잠시 동안 기절시키고, 기절 지속시간 동안 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Darius",
+      "KoreanName" : "다리우스",
+      "RiotName": "TFT6_Darius",
+      "Rarity": 0,
+      "Origins": ["범죄 조직"],
+      "Classes": ["경호대"],
+      "RecommendedItems": [" ","서풍","즈롯 차원문","침묵의 장막"],
+      "SkillName" : "학살",
+      "SkillDescription" : "다리우스가 도끼를 휘둘러 마법 피해를 입히고, 도끼에 맞은 적 유닛당 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Brand",
+      "KoreanName" : "브랜드",
+      "RiotName": "TFT6_Brand",
+      "Rarity": 0,
+      "Origins": ["연미복"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["마법공학 총검","모렐로노미콘","무한의 대검","보석 건틀릿"],
+      "SkillName" : "불태우기",
+      "SkillDescription" : "브랜드가 가장 가까운 적에게 불덩이를 발사해 마법 피해를 입히고 4초간 불태웁니다. 대상이 이미 불타는 상태라면 추가 마법 피해를 입고 잠시 동안 기절시킵니다. \n\n VIP 추가 효과: 브랜드가 두 번째 불덩이를 다른 근처 대상에게 발사해 (불타는 적 우선) 30% 감소한 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Poppy",
+      "KoreanName" : "뽀삐",
+      "RiotName": "TFT6_Poppy",
+      "Rarity": 0,
+      "Origins": ["요들"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["가고일 돌갑옷","덤불 조끼","이온 충격기","즈롯 차원문"],
+      "SkillName" : "방패 던지기",
+      "SkillDescription" : "뽀삐가 가장 멀리 있는 적에게 방패를 던져 방어력에 비례하는 마법 피해를 입힙니다. 방패는 다시 돌아와 뽀삐에게 피해를 흡수하는 보호막을 부여합니다."
+    },
+
+    {
+      "Name": "Singed",
+      "KoreanName" : "신지드",
+      "RiotName": "TFT6_Singed",
+      "Rarity": 0,
+      "Origins": ["화학공학"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","워모그의 갑옷"],
+      "SkillName" : "던져 넘기기",
+      "SkillDescription" : "신지드가 근처의 적을 가장 큰 적 무리에게 던져 잠시 동안 기절시킵니다. 인접한 모든 적은 마법 피해를 입고 잠시 기절합니다."
+    },
+
+    {
+      "Name": "Ezreal",
+      "KoreanName" : "이즈리얼",
+      "RiotName": "TFT6_Ezreal",
+      "Rarity": 0,
+      "Origins": ["고물상"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["루난의 허리케인","무한의 대검","스태틱의 단검","최후의 속삭임"],
+      "SkillName" : "신비한 화살",
+      "SkillDescription" : "이즈리얼이 대상에게 미사일을 발사하여 공격력의 150%+추가 물리 피해를 입힙니다. 만약 미사일이 적중하면 중첩 가능한 추가 공격 속도를 20%만큼 획득하며 5 중첩에서 최대 100%만큼 공격 속도를 얻습니다."
+    },
+
+    {
+      "Name": "Ilaoi",
+      "KoreanName" : "일라오이",
+      "RiotName": "TFT6_Illaoi",
+      "Rarity": 0,
+      "Origins": ["용병"],
+      "Classes": ["난동꾼"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","밴시의 발톱","서풍","즈롯 차원문"],
+      "SkillName" : "혹독한 가르침",
+      "SkillDescription" : "일라오이가 대상을 내리쳐 5초 동안 자신의 영혼과 연결하고 마법 피해를 입힙니다. 연결 상태에서 일라오이는 대상이 받는 피해에 비례한 만큼 체력을 회복합니다."
+    },
+
+    {
+      "Name": "JarvanIV",
+      "KoreanName" : "자르반 4세",
+      "RiotName": "TFT6_JarvanIV",
+      "Rarity": 0,
+      "Origins": ["마법공학"],
+      "Classes": ["타격대"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","밴시의 발톱","서풍","지크의 전령"],
+      "SkillName" : "영겁의 깃발",
+      "SkillDescription" : "자르반 4세가 근처에 깃발을 던져 5초 동안 3칸 내 모든 아군의 공격 속도를 상승시킵니다."
+    },
+
+    {
+      "Name": "Ziggs",
+      "KoreanName" : "직스",
+      "RiotName": "TFT6_Ziggs",
+      "Rarity": 0,
+      "Origins": ["고물상","요들"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["밴시의 발톱","서풍","쓸데없이 큰 지팡이","지크의 전령"],
+      "SkillName" : "소형 지옥 화염 폭탄",
+      "SkillDescription" : "직스가 대상에게 폭탄을 던집니다. 잠시 후 폭탄이 떨어져 중심에 있는 적에게 마법 피해를 입히고 인접한 적에게는 50%의 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Camile",
+      "KoreanName" : "카밀",
+      "RiotName": "TFT6_Camille",
+      "Rarity": 0,
+      "Origins": ["시계태엽"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["서풍","덤불 조끼","용의 발톱","워모그의 갑옷"],
+      "SkillName" : "소형 지옥 화염 폭탄",
+      "SkillDescription" : "직스가 대상에게 폭탄을 던집니다. 잠시 후 폭탄이 떨어져 중심에 있는 적에게 마법 피해를 입히고 인접한 적에게는 50%의 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Kassadin",
+      "KoreanName" : "카사딘",
+      "RiotName": "TFT6_Kassadin",
+      "Rarity": 0,
+      "Origins": ["돌연변이"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["난동꾼 상징","밴시의 발톱","서풍","즈롯 차원문"],
+      "SkillName" : "무의 구체",
+      "SkillDescription" : "카사딘이 대상에게 공허 구체를 발사하여 마법 피해를 입힙니다. 구체에 적중당한 적들은 다음 스킬 사용에 필요한 마나 비용이 50% 증가합니다. 또한 5초 동안 카사딘이 받는 피해가 보호막을 얻고 받는 피해가 25% 감소합니다."
+    },
+
+    {
+      "Name": "Caitlyn",
+      "KoreanName" : "케이틀린",
+      "RiotName": "TFT6_Caitlyn",
+      "Rarity": 0,
+      "Origins": ["집행자"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["밴시의 발톱","서풍","쇼진의 창","지크의 전령"],
+      "SkillName" : "비장의 한 발",
+      "SkillDescription" : "케이틀린이 가장 멀리 있는 적을 향해 강력한 총알을 발사합니다. 총알은 처음 적중한 적에게 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Twich",
+      "KoreanName" : "트위치",
+      "RiotName": "TFT6_Twitch",
+      "Rarity": 0,
+      "Origins": ["화학공학"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["거인 학살자","루난의 허리케인","무한의 대검","죽음의 검"],
+      "SkillName" : "관통 화살",
+      "SkillDescription" : "트위치가 적을 관통하는 강력한 화살을 대상에게 발사하여 공격력에 비례하는 물리 피해에 추가 물리 피해를 입히고 5초 동안 대상의 회복 효과가 50% 감소합니다."
+    },
+
+    {
+      "Name": "Reksai",
+      "KoreanName" : "렉사이",
+      "RiotName": "TFT6_RekSai",
+      "Rarity": 1,
+      "Origins": ["돌연변이"],
+      "Classes": ["난동꾼", "타격대"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","도적의 장갑","서풍","침묵의 장갑"],
+      "SkillName" : "성난 이빨",
+      "SkillDescription" : "렉사이가 대상을 깨물어 공격력의 125%에 해당하는 피해와 추가 물리 피해를 입히고 대상의 방어력과 마법 저항력을 일부 훔치며 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Lulu",
+      "KoreanName" : "룰루",
+      "RiotName": "TFT6_Lulu",
+      "Rarity": 1,
+      "Origins": ["요들"],
+      "Classes": ["강화술사"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","밴시의 발톱","쇼진의 창","지크의 정령"],
+      "SkillName" : "급성장",
+      "SkillDescription" : "룰루가 체력이 낮은 아군을 커지게 해 추가 체력을 부여하고, 주변 적을 공중으로 띄워 올립니다. 아군이 이미 커진 상태라면 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Blitzcrank",
+      "KoreanName" : "블리츠크랭크",
+      "RiotName": "TFT6_Blitzcrank",
+      "Rarity": 1,
+      "Origins": ["고물상"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["거인의 허리띠","서풍","쇠사슬 조끼","음전자 망토"],
+      "SkillName" : "급성장",
+      "SkillDescription" : "블리츠크랭크가 가장 멀리 있는 적을 당겨 1.5초 동안 기절시킵니다. 다음 공격은 적을 1초 공중으로 띄워올립니다. 아군은 블리츠크랭크가 당긴 적이 사거리 안에 있을 경우 우선적으로 공격합니다."
+    },
+
+    {
+      "Name": "Sejuani",
+      "KoreanName" : "세주아니",
+      "RiotName": "TFT6_Sejuani",
+      "Rarity": 1,
+      "Origins": ["마법공학"],
+      "Classes": ["집행자"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","덤불 조끼","서풍","침묵의 장막"],
+      "SkillName" : "혹한의 분노",
+      "SkillDescription" : "세주아니가 브리슬에게 돌격 명령을 내려 대상에게 마법 피해를 입히고 잠시 동안 기절 시킵니다. 이후 세주아니는 서리 갑옷 효과를 얻어 4초 동안 방어력과 마법 저항력이 증가합니다."
+    },
+
+    {
+      "Name": "Swain",
+      "KoreanName" : "스웨인",
+      "RiotName": "TFT6_Swain",
+      "Rarity": 1,
+      "Origins": ["마법공학"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["강철의 솔라리 펜던트","모렐로노미콘","서풍","지크의 전령"],
+      "SkillName" : "죽음의 손길",
+      "SkillDescription" : "스웨인이 대상을 향해 원뿔 범위로 관통하는 섬뜩한 힘을 발사하여 범위 내 적에게 마법 피해를 입히고 적중한 적 하나당 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Syndra",
+      "KoreanName" : "신드라",
+      "RiotName": "TFT6_Syndra",
+      "Rarity": 1,
+      "Origins": ["연미복"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["모렐로노미톤","밴시의 발톱","보석 건틀릿","쇼진의 창"],
+      "SkillName" : "의지의 힘",
+      "SkillDescription" : "신드라가 가장 가까운 적을 가장 멀리 있는 적에게 던집니다. 던져진 적은 충돌 시 1칸 내 모든 적에게 마법 피해를 입히고 잠시 동안 기절합니다. VIP 추가 효과: 의지의 힘 스킬의 피해 범위가 1칸 넓어지고 영향을 받은 적들을 1.5초 동안 공중에 띄웁니다."
+    },
+
+    {
+      "Name": "Ashe",
+      "KoreanName" : "애쉬",
+      "RiotName": "TFT6_Ashe",
+      "Rarity": 1,
+      "Origins": ["범죄 조직"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["거인의 학살자","구인수의 격노검","무한의 대검","죽음의 검"],
+      "SkillName" : "일제 사격",
+      "SkillDescription" : "애쉬가 대상을 중심으로 몇 개의 화살을 일제히 쏴서 각각 공격력에 비례한 물리 피해를 입힙니다. 화살을 맞은 적은 3초간 공격 속도가 15% 감소합니다."
+    },
+
+    {
+      "Name": "Warwick",
+      "KoreanName" : "워윅",
+      "RiotName": "TFT6_Warwick",
+      "Rarity": 1,
+      "Origins": ["화학공학"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["거인의 결의","구인수의 격노검","수은","스태틱의 단검"],
+      "SkillName" : "끝없는 허기",
+      "SkillDescription" : "기본 지속 효과: 워윅의 공격이 대상 현재 체력에 비례하는 추가 마법 피해를 입히고 워윅이 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Zyra",
+      "KoreanName" : "자이라",
+      "RiotName": "TFT6_Zyra",
+      "Rarity": 1,
+      "Origins": ["범죄 조직"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["밴시의 발톱","서풍","쇼진의 창","지크의 정령"],
+      "SkillName" : "휘감는 가시",
+      "SkillDescription" : "자이라가 적이 가장 많은 줄에 덩굴을 소환해 마법 피해를 입히고 기절시킵니다."
+    },
+
+    {
+      "Name": "Zilean",
+      "KoreanName" : "질리언",
+      "RiotName": "TFT6_Zilean",
+      "Rarity": 1,
+      "Origins": ["시계태엽"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["밴시의 발톱","서풍","침묵의 장막","지크의 정령"],
+      "SkillName" : "시한 폭탄",
+      "SkillDescription" : "질리언이 가장 가까운 적에게 폭탄을 설치해 잠시 동안 기절시킵니다. 기절 지속시간이 끝나거나 대상이 처치되면 폭탄이 폭발하여 인접한 적에게 마법 피해를 입히고 4초 동안 적의 공격 속도가 감소합니다."
+    },
+
+    {
+      "Name": "Corki",
+      "KoreanName" : "코르키",
+      "RiotName": "TFT6_Corki",
+      "Rarity": 1,
+      "Origins": ["요들"],
+      "Classes": ["쌍발총"],
+      "RecommendedItems": ["거인 학살자","라바돈의 죽음모자","무한의 대검","보석 건틀릿"],
+      "SkillName" : "폭격",
+      "SkillDescription" : "코르키가 대상에게 미사일을 발사합니다. 미사일은 충돌 시 폭발해 1칸 내 적들에게 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Quinn",
+      "KoreanName" : "퀸",
+      "RiotName": "TFT6_Quinn",
+      "Rarity": 1,
+      "Origins": ["용병"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["모렐로노미콘","서풍","쇼진의 창","스태틱의 단검"],
+      "SkillName" : "무장 해제 공격",
+      "SkillDescription" : "퀸이 가장 빠른 공격 속도를 가진 대상에게 발러를 보내 대상과 주변 적들에게 마법 피해를 입히고 무장 해제시킵니다."
+    },
+
+    {
+      "Name": "Talon",
+      "KoreanName" : "탈론",
+      "RiotName": "TFT6_Talon",
+      "Rarity": 1,
+      "Origins": ["연미복"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["고속 연사포","마법공학 총학","무한의 대검","수은"],
+      "SkillName" : "검의 최후",
+      "SkillDescription" : "기본 지속 효과: 탈론의 첫 번째 공격이 출혈을 일으켜 7초 동안 마법 피해를 입힙니다. 매 세 번째 공격이 대상에게 추가 출혈을 적용합니다. VIP 추가 효과: 탈론의 출혈 효과가 고정 피해를 입히고 100% 더 오래 지속됩니다."
+    },
+
+    {
+      "Name": "Gangplank",
+      "KoreanName" : "갱플랭크",
+      "RiotName": "TFT6_Gangplank",
+      "Rarity": 2,
+      "Origins": ["용병"],
+      "Classes": ["쌍발총"],
+      "RecommendedItems": ["루난의 허리케인","무한의 대검","수은","최후의 속삭임"],
+      "SkillName" : "혀어어어업상",
+      "SkillDescription" : "갱플랭크가 총으로 대상을 공격해 공격력의 170%에 해당하는 피해에 추가 물리 피해를 입힙니다. 이 공격으로 챔피언을 처치하면 갱플랭크가 1골드를 약탈합니다."
+    },
+
+    {
+      "Name": "Gnar",
+      "KoreanName" : "나르",
+      "RiotName": "TFT6_Gnar",
+      "Rarity": 2,
+      "Origins": ["요들"],
+      "Classes": ["사교계","타격대"],
+      "RecommendedItems": ["거인의 결의","도적의 장갑","서풍","지크의 전령"],
+      "SkillName" : "나르!",
+      "SkillDescription" : "나르가 메가 나르로 변신하고, 전투가 끝날 때까지 메가 나르 상태가 유지됩니다. 메가 나르는 3칸 내에서 가장 멀리 있는 적에게 돌덩이를 던져, 경로에 있는 모든 적에게 공격력에 비례한 피해 + 추가 물리 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Leona",
+      "KoreanName" : "레오나",
+      "RiotName": "TFT6_Leona",
+      "Rarity": 2,
+      "Origins": ["연미복"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","용의 발톱"],
+      "SkillName" : "일식",
+      "SkillDescription" : "레오나가 빛의 힘을 불러내어 잠시 동안 피해를 흡수하는 보호막을 얻습니다. 레오나와 2칸 내의 아군들은 같은 시간 동안 방어력 및 마법 저항력을 얻습니다. VIP 추가 효과: 공격 대상이 레오나인 유닛 하나당 레오나가 매초 최대 체력의 0.8%만큼 체력을 회복합니다."
+    },
+
+    {
+      "Name": "Lucian",
+      "KoreanName" : "루시안",
+      "RiotName": "TFT6_Lucian",
+      "Rarity": 2,
+      "Origins": ["마법공학"],
+      "Classes": ["쌍발총"],
+      "RecommendedItems": ["거인 학살자","밴시의 발톱","보석 건틀릿","스태틱의 단검"],
+      "SkillName" : "끈질긴 추격",
+      "SkillDescription" : "루시안이 현재 대상에서 먼 곳으로 돌진하며 주변 적에게 총알을 발사해 각각 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Malzahar",
+      "KoreanName" : "말자하",
+      "RiotName": "TFT6_Malzahar",
+      "Rarity": 2,
+      "Origins": ["돌연변이"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["거인 학살자","마법공학 총검","모렐로노미콘","보석 건틀릿"],
+      "SkillName" : "재앙의 환상",
+      "SkillDescription" : "말자하가 영향을 받지 않은 가장 가까운 대상의 정신을 오염시켜 8초 동안 마법 피해를 입히고, 적의 마법 저항력을 40%만큼 감소시킵니다."
+    },
+
+    {
+      "Name": "Morgana",
+      "KoreanName" : "모르가나",
+      "RiotName": "TFT6_Morgana",
+      "Rarity": 2,
+      "Origins": ["범죄 조직"],
+      "Classes": ["강화술사"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","모렐로노미콘"],
+      "SkillName" : "영혼의 족쇄",
+      "SkillDescription" : "모르가나가 3초 동안 피해를 흡수하는 보호막을 얻고, 2칸 내 모든 적을 자신과 묶어 보호막이 사라질 때까지 매초 마법 피해를 입힙니다. 보호막이 파괴되지 않고 사라지면 모든 대상을 수 초 동안 기절시킵니다. 보호막이 파괴되면 30의 마나를 돌려받습니다."
+    },
+
+    {
+      "Name": "Missfortune",
+      "KoreanName" : "미스포춘",
+      "RiotName": "TFT6_MissFortune",
+      "Rarity": 2,
+      "Origins": ["용병"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["라바돈의 죽음모자","모렐로노미콘","보석 건틀렛","쇼진의 창"],
+      "SkillName" : "총알은 비를 타고",
+      "SkillDescription" : "미스 포츈이 대상 주변에 4회 총알을 퍼부어 해당 지역에 있는 적에게 마법 피해를 입힙니다. 적중당한 적은 6초간 받는 체력 회복 효과가 50% 감소합니다."
+    },
+
+    {
+      "Name": "Vex",
+      "KoreanName" : "벡스",
+      "RiotName": "TFT6_Vex",
+      "Rarity": 2,
+      "Origins": ["요들"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["가고일 돌갑옷","거인의 결의"," ","용의 발톱"],
+      "SkillName" : "거리두기",
+      "SkillDescription" : "벡스가 4초 동안 보호막을 얻습니다. 보호막이 사라지면 2칸 내의 모든 적들에게 마법 피해를 입히고, 보호막 지속 시간 동안 보호막이 파괴되지 않았다면 추가 마법 피해를 입힙니다.보호막이 파괴되었다면 이번 전투에서 거리 두기가 15% 강력해집니다. 이 효과는 중첩될 수 있습니다."
+    },
+
+    {
+      "Name": "Senna",
+      "KoreanName" : "세나",
+      "RiotName": "TFT6_Senna",
+      "Rarity": 2,
+      "Origins": ["사교계"],
+      "Classes": ["강화술사"],
+      "RecommendedItems": ["거인 학살자","구인수의 격노검","무한의 대검","죽음의 검"],
+      "SkillName" : "꿰뚫는 어둠",
+      "SkillDescription" : "세나가 대상 방향으로 광선을 발사해 공격력의 160%에 해당하는 물리 피해에 추가 기본 물리 피해를 입힙니다. 적중한 적 하나당 체력이 가장 낮은 아군의 체력이 피해량의 50%만큼 회복됩니다."
+    },
+
+    {
+      "Name": "Eco",
+      "KoreanName" : "에코",
+      "RiotName": "TFT6_Ekko",
+      "Rarity": 2,
+      "Origins": ["고물상"],
+      "Classes": ["암살자","혁신가"],
+      "RecommendedItems": ["거인의 허리띠","모렐로노미콘","쓸데없는 큰 지팡이","얼어붙은 심장"],
+      "SkillName" : "평행 시간 교차",
+      "SkillDescription" : "에코가 가장 큰 적 무리에게 장치를 날리는 잔상을 남깁니다. 장치 착지 시 범위 내의 적들은 마법 피해를 입고 4초 동안 공격 속도가 감소합니다. 범위 내의 아군은 4초 동안 공격 속도가 증가합니다."
+    },
+
+    {
+      "Name": "Zac",
+      "KoreanName" : "자크",
+      "RiotName": "TFT6_Zac",
+      "Rarity": 2,
+      "Origins": ["화학공학"],
+      "Classes": ["난동꾼"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","도적의 장갑"],
+      "SkillName" : "타아앙!",
+      "SkillDescription" : "자크가 팔을 최대 3칸까지 뻗어 가장 멀리 떨어진 2명의 적을 앞으로 당기고 마법 피해를 입힙니다. 이 동안 자크가 받는 피해가 50% 감소합니다."
+    },
+
+    {
+      "Name": "Chogath",
+      "KoreanName" : "초가스",
+      "RiotName": "TFT6_ChoGath",
+      "Rarity": 2,
+      "Origins": ["돌연변이"],
+      "Classes": ["난동꾼","거신"],
+      "RecommendedItems": ["거인의 결의","구원","덤불 조끼","가고일 돌갑옷"],
+      "SkillName" : "포식",
+      "SkillDescription" : "초가스가 범위 내 가장 체력이 낮은 적을 집어삼켜 마법 피해를 입힙니다. 만약 대상을 처치하면 초가스가 포식 중첩을 하나 (초고속 모드에서는 2개) 획득합니다. 포식 중첩 하나당 영구적으로 몸집이 커지며 2%의 추가 체력을 영구적으로 얻습니다."
+    },
+
+    {
+      "Name": "Tryndamere",
+      "KoreanName" : "트린다미어",
+      "RiotName": "TFT6_Tryndamere",
+      "Rarity": 2,
+      "Origins": ["화학공학"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["거인의 결의","무한의 대검","수은","최후의 속삭임"],
+      "SkillName" : "회전 베기",
+      "SkillDescription" : "트린다미어가 적이 가장 많은 곳을 향해 일직선상으로 회전하며 경로에 있는 적에게 물리 피해를 입힙니다. 또한 다음 3번의 기본 공격이 강화되어 20%의 추가 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Draven",
+      "KoreanName" : "드레이븐",
+      "RiotName": "TFT6_Draven",
+      "Rarity": 3,
+      "Origins": ["연미복"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["거인 학살자","무한의 대검","구인수의 격노검","최후의 속삭임"],
+      "SkillName" : "회전 도끼",
+      "SkillDescription" : "드레이븐이 회전 도끼를 사용하며 다음 공격 시 공격력에 비례한 피해와 추가 물리 피해를 입힙니다. 도끼는 대상에게 적중한 후 드레이븐의 원래 위치로 돌아옵니다. 돌아오는 도끼를 잡으면 도끼를 다시 강화합니다. 드레이븐은 한 번에 최대 2개의 회전 도끼를 사용할 수 있습니다."
+    },
+
+    {
+      "Name": "Renata",
+      "KoreanName" : "레나타 글라스크",
+      "RiotName": "TFT6_Renata",
+      "Rarity": 3,
+      "Origins": ["화학공학"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["마법공학 총검","모렐로노미콘","보석 건틀릿","쇼진의 창"],
+      "SkillName" : "맹독파도",
+      "SkillDescription" : "레나타가 6칸 내 가장 큰 적 무리에게 맹독 파도를 내보내 경로에 있는 모든 적을 15초간 중독시킵니다. 중독된 적은 공격 속도가 15% 감소하고 매초 마법 피해를 입습니다. 독 피해는 중첩될 수 있습니다."
+    },
+
+    {
+      "Name": "Vi",
+      "KoreanName" : "바이",
+      "RiotName": "TFT6b_Vi",
+      "Rarity": 3,
+      "Origins": ["경쟁자"],
+      "Classes": ["집행자","난동꾼"],
+      "RecommendedItems": ["거인의 결의","덤불 조끼","용의 발톱","워모그의 갑옷"],
+      "SkillName" : "펄트오버 분쇄 건틀릿",
+      "SkillDescription" : "바이가 보호막을 얻고, 대상과 그 뒤에 있는 적들에게 마법 피해를 입힙니다. 스킬을 두 번째로 사용하면 대상을 뚫고 돌진합니다. 스킬을 세 번째로 사용하면 대상을 공중으로 띄웠다가 다시 땅으로 꽂아 대상 주변 원 안에 있는 적들에게 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Braum",
+      "KoreanName" : "브라움",
+      "RiotName": "TFT6_Braum",
+      "Rarity": 3,
+      "Origins": ["범죄 조직"],
+      "Classes": ["경호대"],
+      "RecommendedItems": ["가고일 돌갑옷","덤불 조끼","용의 발톱","워모그의 갑옷"],
+      "SkillName" : "금고 부수기",
+      "SkillDescription" : "브라움이 금고 문을 지면에 내리쳐 대상을 향해 균열을 일으킵니다. 브라움 주변 2칸 내에 있는 적들과 균열에 적중당한 적들은 수 초 동안 기절하고 마법 피해를 입습니다."
+    },
+
+    {
+      "Name": "Seraphine",
+      "KoreanName" : "세라핀",
+      "RiotName": "TFT6_Seraphine",
+      "Rarity": 3,
+      "Origins": ["사교계"],
+      "Classes": ["혁신가"],
+      "RecommendedItems": ["대천사의 지팡이","모렐로노미콘","보석 건틀릿","쇼진의 창"],
+      "SkillName" : "앙코르",
+      "SkillDescription" : "세라핀이 가장 큰 적 유닛 무리를 향해 노래를 불러 적들에게 마법 피해를 입힙니다. 노래에 적중된 아군은 체력을 회복하고 4초 동안 공격 속도가 증가합니다."
+    },
+
+    {
+      "Name": "Sivir",
+      "KoreanName" : "시비르",
+      "RiotName": "TFT6_Sivir",
+      "Rarity": 3,
+      "Origins": ["마법공학"],
+      "Classes": ["타격대"],
+      "RecommendedItems": ["거인 학살자","구인수의 격노검","수은","스태틱의 단검"],
+      "SkillName" : "튕기는 부메랑",
+      "SkillDescription" : "5초 동안 시비르의 공격 속도가 증가하고, 기본 공격이 여러 번 튕기며 적중한 적에게 공격력의 33%에 해당하는 물리 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Ahri",
+      "KoreanName" : "아리",
+      "RiotName": "TFT6_Ahri",
+      "Rarity": 3,
+      "Origins": ["범죄 조직"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["거인 학살자","마법공학 총검","무한의 대검","보석 건틀릿"],
+      "SkillName" : "현혹의 구슬",
+      "SkillDescription" : "아리가 일직선으로 5칸에 구슬을 던졌다 받습니다. 구슬은 닿는 모든 적에게 마법 피해를 입힙니다. 한 구슬에 맞은 적은 두 번째 구슬부터 80%의 피해를 받습니다. 이번 전투에 이 스킬을 사용한 횟수당 구슬을 추가로 던집니다."
+    },
+
+    {
+      "Name": "Alistar",
+      "KoreanName" : "알리스타",
+      "RiotName": "TFT6_Alistar",
+      "Rarity": 3,
+      "Origins": ["마법공학"],
+      "Classes": ["거신"],
+      "RecommendedItems": ["가고일 돌갑옷","구원","덤불 조끼","모렐로노미콘"],
+      "SkillName" : "분쇄",
+      "SkillDescription" : "알리스타가 대상에게 돌진해 짧은 거리만큼 뒤로 밀어냅니다. 이후 땅을 내리쳐 마법 피해를 입히고 주변 모든 적을 잠시 동안 기절시킵니다."
+    },
+
+    {
+      "Name": "Oriana",
+      "KoreanName" : "오리아나",
+      "RiotName": "TFT6_Orianna",
+      "Rarity": 3,
+      "Origins": ["시계태엽"],
+      "Classes": ["강화술사"],
+      "RecommendedItems": ["밴시의 발톱","쇼진의 창","스태틱의 단검","지크의 전령"],
+      "SkillName" : "명령: 충격파",
+      "SkillDescription" : "오리아나가 가장 큰 챔피언 무리에 구체를 보내 충격파 발산 명령을 내립니다. 2칸 내의 아군은 4초 동안 보호막을 얻고 같은 범위 내의 적은 잠시 공중에 띄워져 마법 피해를 입습니다. 구체와 인접한 적은 끌려들어가 잠시 동안 기절합니다."
+    },
+
+    {
+      "Name": "Irelia",
+      "KoreanName" : "이렐리아",
+      "RiotName": "TFT6_Irelia",
+      "Rarity": 3,
+      "Origins": ["고물상"],
+      "Classes": ["타격대"],
+      "RecommendedItems": ["거인 학살자","무한의 대검","수은","최후의 속삭임"],
+      "SkillName" : "칼날 쇄도",
+      "SkillDescription" : "이렐리아가 대상에게 돌진해 물리 피해를 입힙니다. 만약 대상이 처치되면 체력이 가장 낮은 적에게 칼날 쇄도를 다시 사용합니다."
+    },
+
+    {
+      "Name": "Jhin",
+      "KoreanName" : "진",
+      "RiotName": "TFT6_Jhin",
+      "Rarity": 3,
+      "Origins": ["시계태엽"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["거인 학살자","무한의 대검","수은","최후의 속삭임"],
+      "SkillName" : "커튼 콜",
+      "SkillDescription" : "진이 다음 4번의 사격 동안 자신의 무기를 강력한 저격소총으로 바꿉니다. 각 총탄은 공격력에 비례하는 물리 피해를 입히고 관통한 대상마다 피해량이 33% 감소합니다. 4번째 총탄은 항상 치명타가 적용되며 대상이 잃은 체력에 비례하여 100%의 추가 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Khazix",
+      "KoreanName" : "카직스",
+      "RiotName": "TFT6_KhaZix",
+      "Rarity": 3,
+      "Origins": ["돌연변이"],
+      "Classes": ["암살자"],
+      "RecommendedItems": ["거인 학살자","고속 연사포","무한의 대검","최후의 속삭임"],
+      "SkillName" : "사막의 습격",
+      "SkillDescription" : "카직스가 체력이 가장 낮은 적에게 도약해 물리 피해를 입힙니다. 대상은 다음 스킬을 사용할 때까지 최대 마나가 50% 증가합니다."
+    },
+
+    {
+      "Name": "Galio",
+      "KoreanName" : "갈리오",
+      "RiotName": "TFT6_Galio",
+      "Rarity": 4,
+      "Origins": ["사교계"],
+      "Classes": ["경호대","거신"],
+      "RecommendedItems": ["가고일 돌갑옷","덤불 조끼","모렐로노미콘","용의 발톱"],
+      "SkillName" : "거신 출현",
+      "SkillDescription" : "갈리오가 무적 상태가 되어 하늘로 도약하고 가장 큰 적 무리를 강타합니다. 넓은 범위 내의 적들은 마법 피해를 입고 공중에 떠오릅니다."
+    },
+
+    {
+      "Name": "Veigar",
+      "KoreanName" : "베이가",
+      "RiotName": "TFT6_Veigar",
+      "Rarity": 4,
+      "Origins": ["요들 군주"],
+      "Classes": [],
+      "RecommendedItems": ["거인 학살자","마법공학 총검","모렐로노미콘","보석 건틀릿"],
+      "SkillName" : "뿔보 폭풍",
+      "SkillDescription" : "베이가가 근처 무작위 적에게 각각 마법 피해를 입히는 뿔보를 소환합니다"
+    },
+
+    {
+      "Name": "Viktor",
+      "KoreanName" : "빅토르",
+      "RiotName": "TFT6_Viktor",
+      "Rarity": 4,
+      "Origins": ["화학공학"],
+      "Classes": ["비전 마법사"],
+      "RecommendedItems": ["거인 학살자","보석 건틀릿","쇼진의 창","스태틱의 단검"],
+      "SkillName" : "혼돈의 광선",
+      "SkillDescription" : "빅토르가 다수의 특이점을 소환하여 전장을 가로지르는 죽음의 광선을 발사합니다. 죽음의 광선은 경로에 포착된 적들에게 마법 피해를 입히고, 남은 보호막의 일부를 파괴합니다."
+    },
+
+    {
+      "Name": "Silco",
+      "KoreanName" : "실코",
+      "RiotName": "TFT6_Silco",
+      "Rarity": 4,
+      "Origins": ["흑막"],
+      "Classes": ["학자"],
+      "RecommendedItems": ["난동꾼 상징","스태틱의 단검","쇼진의 창","푸른 파수꾼"],
+      "SkillName" : "불안정한 혼합물",
+      "SkillDescription" : "실코가 체력이 낮은 아군들에게 불안정한 약물을 부여합니다. 대상 아군들은 6초 동안 최대 체력이 50%, 공격 속도가 증가하고 군중 제어 효과에 면역이 됩니다. 약물의 효과가 사라지면 불안정한 유닛이 폭발하며 사망해 주변 적에게 마법 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Zeri",
+      "KoreanName" : "제리",
+      "RiotName": "TFT6_Zeri",
+      "Rarity": 4,
+      "Origins": ["연미복"],
+      "Classes": ["저격수"],
+      "RecommendedItems": ["거인 학살자","구인수의 격노검","무한의 대검","스태틱의 단검"],
+      "SkillName" : "번개 방출",
+      "SkillDescription" : "제리가 6초 동안 자신을 전기로 충전합니다. 충전된 동안 제리가 가장 먼 적을 조준하고, 제리의 기본 공격이 적을 관통하며, 사격할 때마다 돌진합니다."
+    },
+
+    {
+      "Name": "Jayce",
+      "KoreanName" : "제이스",
+      "RiotName": "TFT6_Jayce",
+      "Rarity": 4,
+      "Origins": ["집행자"],
+      "Classes": ["변형술사","혁신가"],
+      "RecommendedItems": ["거인 학살자","구인수의 격노검","무한의 대검","스태틱의 단검"],
+      "SkillName" : "하늘로! / 전격 폭발",
+      "SkillDescription" : "하늘로!: 제이스가 스스로 과충전하여 3초 동안 보호막을 획득하며 저지할 수 없게 됩니다. 그리고 제이스가 두 번의 공격으로 전방의 적들을 휩쓸어 공격력에 비례한 피해를 입히고 하늘로 도약해 대상을 내리찍습니다. 2칸 내에 있는 적들은 동일한 피해를 입고 5초 동안 방어력 및 마법 저항력이 감소합니다./ 전격 폭발: 제이스가 가로로 같은 칸에 있는 아군에게 5초 동안 추가 공격 속도를 부여하는 가속 관문을 소환합니다. 그리고 다음 3회의 공격 동안 기본 공격 대신 대상 근처에 전기 구체를 발사하여 공격력에 비례한 물리 피해를 입힙니다. 세 번째 발사하는 전기 구체는 대상 주변 2칸 내에 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Jinx",
+      "KoreanName" : "징크스",
+      "RiotName": "TFT6_Jinx",
+      "Rarity": 4,
+      "Origins": ["경쟁자"],
+      "Classes": ["고물상","쌍발총"],
+      "RecommendedItems": ["거인 학살자","구인수의 격노검","무한의 대검","최후의 속삭임"],
+      "SkillName" : "초강력 초토화 로켓",
+      "SkillDescription" : "징크스가 자신의 로켓을 타고 하늘로 날아오른 후 가장 밀집되어 있는 적들을 향해 추락하며 중심에 있는 적들에게 마법 피해를 입히고, 넓은 범위 내에 있는 모든 적들에게 50%만큼 피해를 입힙니다. 중심에서는 징크스를 제외한 모든 유닛을 5초 동안 불태워 대상 최대 체력에 비례한 고정 피해를 입히고, 체력 회복 효과를 50% 감소시킵니다. 그리고 전투가 끝날 때까지 로켓 발사기로 무기를 교체해 무작위 유닛을 공격합니다. 공격시 폭발을 일으켜 대상 주변 작은 반경에 공격력에 비례하는 물리 피해를 입힙니다."
+    },
+
+    {
+      "Name": "Kaisa",
+      "KoreanName" : "카이사",
+      "RiotName": "TFT6_Kaisa",
+      "Rarity": 4,
+      "Origins": ["돌연변이"],
+      "Classes": ["도전자"],
+      "RecommendedItems": ["구인수의 격노검","마법공학 총검","모렐로노미콘","보석 건틀릿"],
+      "SkillName" : "이케시아 계절풍",
+      "SkillDescription" : "카이사가 모든 적으로부터 물러나며 모든 적들에게 마법 피해를 입히는 여러 개의 미사일을 골고루 퍼붓습니다."
+    },
+
+    {
+      "Name": "TahmKench",
+      "KoreanName" : "탐 켄치",
+      "RiotName": "TFT6_TahmKench",
+      "Rarity": 4,
+      "Origins": ["대식가"],
+      "Classes": ["용병","난동꾼"],
+      "RecommendedItems": ["거인의 결의","덤불 조끼","마법공학 총검","용의 발톱"],
+      "SkillName" : "집어삼키기",
+      "SkillDescription" : "탐 켄치가 대상을 배 속으로 집어삼켜 3초 동안 마법 피해를 입힙니다. 지속시간 동안 대상은 다른 피해에 무적 상태가 되며 탐 켄치가 받는 피해가 30% 감소합니다. 배 속에서 대상이 사망하면 탐 켄치는 대상이 보유하고 있었던 무작위 조합 아이템이나 해당 대상의 비용을 골드로 뱉어냅니다. 대상이 사망하지 않을 경우 대상을 가장 멀리 있는 적에게 뱉고 충돌 시 짧게 기절시킵니다."
+    }
+
+  ]
+}
